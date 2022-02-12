@@ -1,0 +1,14 @@
+Name		, Mobile Num	, Checkin Date	, Checkout Date	, Price(per day), No. of days Stayed, Total Price, Contact email
+Nischal Baniya  ,9845215458	,11-06-2020	,14-06-2020	,1400		,3		    ,4200	 ,baniya.nischal@outlook.com
+Ajay Acharya    ,9845525698	,19-06-2020	,20-06-2020	,800		,1		    ,800	 ,ajayacharya@gmail.com
+Sujal Mishra    ,9845507002	,22-09-2020	,24-09-2020	,1200		,2		    ,2400	 ,mishra678@yahoo.com
+Mihir Rauniyar  ,9855078965	,27-09-2020	,27-09-2020	,1200		,1		    ,1200	 ,kanpai654@gmail.com
+Sabin Nepal     ,9845214556	,11-11-2020	,16-11-2020	,1000		,5		    ,5000	 ,nepal.sabin777@gmail.com
+Nischal Raut    ,9845498754	,24-11-2020	,29-11-2020	,800		,5		    ,4000	 ,raut.nischal@outlook.com
+Sureen Joshi    ,9845045666	,27-11-2020	,01-12-2020	,1000		,3		    ,300	 ,sureenjoshi789@gmail.com
+Success Sanjel  ,9855075321	,07-12-2020	,14-12-2020	,1000		,7		    ,7000	 ,sanjelsuccess@gmail.com
+Tony Stark      ,9845555555	,20-12-2020	,2-01-2021	,1400		,12		    ,16800	 ,starkindustries@gmail.com
+Prayas Basnet   ,9845223541	,24-12-2020	,30-12-2020	,800		,6		    ,4800	 ,basnetprayas123@gmail.com
+Subarna Karki   ,9845269669	,26-12-2020	,01-01-2021	,1800		,5		    ,9000	 ,subarna_090@gmail.com
+Aayush Ghimire  ,9845497465	,29-12-2020	,4-01-2021	,1400		,5		    ,7000	 ,bokuwa.tobi@gmail.com
+Richard Hardy   ,9855070029	,4-01-2021	,08-01-2021	,1000		,4		    ,4000	 ,hardy.ric@hotmail.com
